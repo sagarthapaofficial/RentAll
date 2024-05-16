@@ -4,21 +4,15 @@ using System.ComponentModel.DataAnnotations;
 namespace RentAll.DAL.Domain_Classes
 {
 
-
-
     public class Role
     {
-        public enum RoleType
-        {
-            TENANT,
-            HOST,
-            ADMIN
-        }
 
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
+
         [Required]
-        public RoleType Name { get; set; }
+        [StringLength(50)]
+        public String Name { get; set; } = "";
     }
 }

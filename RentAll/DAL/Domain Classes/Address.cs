@@ -9,14 +9,14 @@ namespace RentAll.DAL.Domain_Classes
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         [Required]
-        public string StreetAddress { get; set; }
+        public string StreetAddress { get; set; } = "";
         [Required]
-        public string City { get; set; }
+        public string City { get; set; } = "";
         [Required]
-        public string Province { get; set; }
+        public string Province { get; set; } = "";
         // we don't store an actual password
         [Required]
-        public string PostalCode { get; set; }
+        public string PostalCode { get; set; } = "";
 
     }
 }
