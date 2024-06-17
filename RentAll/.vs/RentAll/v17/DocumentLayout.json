@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\dal\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:dal\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\dto\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:dto\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\dto\\account\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:dto\\account\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\dto\\account\\confirmemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:dto\\account\\confirmemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\dto\\account\\emailsenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:dto\\account\\emailsenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\dto\\account\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:dto\\account\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|d:\\becommingsoftwaredeveloper\\full-stack web application project\\rentall\\serverside\\rentall\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34AFF2BE-4F3F-41D6-8200-37B1353CA3FC}|RentAll.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,12 +45,13 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 170,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 492,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "UserDAO.cs",
               "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DAL\\DAO\\UserDAO.cs",
               "RelativeDocumentMoniker": "DAL\\DAO\\UserDAO.cs",
@@ -39,43 +60,121 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T00:24:41.304Z"
+=======
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T17:40:05.371Z"
+>>>>>>> sBranch
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBkAAAAvAAAA",
+              "DocumentIndex": 4,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DTO\\Account\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Account\\ResetPasswordDto.cs",
+              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DTO\\Account\\ResetPasswordDto.cs",
+              "RelativeToolTip": "DTO\\Account\\ResetPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T00:20:58.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T14:58:55.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
-              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "Controllers\\RegisterController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAowDkAAAApAAAA",
+              "DocumentIndex": 6,
+              "Title": "EmailSendDto.cs",
+              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DTO\\Account\\EmailSendDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Account\\EmailSendDto.cs",
+              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DTO\\Account\\EmailSendDto.cs",
+              "RelativeToolTip": "DTO\\Account\\EmailSendDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2024-05-16T00:20:32.202Z"
+=======
+              "WhenOpened": "2024-06-14T14:58:34.435Z"
+>>>>>>> sBranch
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserHelper.cs",
-              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Helpers\\UserHelper.cs",
-              "RelativeDocumentMoniker": "Helpers\\UserHelper.cs",
-              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Helpers\\UserHelper.cs",
-              "RelativeToolTip": "Helpers\\UserHelper.cs",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:33:13.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DTO\\Account\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Account\\UserDto.cs",
+              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DTO\\Account\\UserDto.cs",
+              "RelativeToolTip": "DTO\\Account\\UserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2024-05-16T00:20:26.527Z"
+=======
+              "WhenOpened": "2024-06-14T14:33:08.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfirmEmailDto.cs",
+              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DTO\\Account\\ConfirmEmailDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Account\\ConfirmEmailDto.cs",
+              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DTO\\Account\\ConfirmEmailDto.cs",
+              "RelativeToolTip": "DTO\\Account\\ConfirmEmailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:52:50.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T04:02:47.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DTO\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Account\\RegisterDto.cs",
+              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\DTO\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "DTO\\Account\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:26:15.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\BecommingSoftwareDeveloper\\Full-stack Web Application Project\\RentAll\\ServerSide\\RentAll\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAwJYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:07:34.101Z",
+              "EditorCaption": ""
+>>>>>>> sBranch
             }
           ]
         }

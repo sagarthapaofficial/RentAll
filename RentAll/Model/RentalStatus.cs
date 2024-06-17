@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace RentAll.DAL.Domain_Classes
+namespace RentAll.Model
 {
     public class RentalStatus
     {
@@ -9,7 +9,7 @@ namespace RentAll.DAL.Domain_Classes
 
         [Key]
         [Required]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]   
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         [Required]

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace RentAll.DAL.Domain_Classes
+namespace RentAll.Model
 {
     public class ProductImage
     {

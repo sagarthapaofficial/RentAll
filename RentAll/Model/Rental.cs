@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace RentAll.DAL.Domain_Classes
+namespace RentAll.Model
 {
     public class Rental
     {
@@ -28,7 +28,7 @@ namespace RentAll.DAL.Domain_Classes
 
         [Required]
         [ForeignKey("RentalStatusId")]
-        public RentalStatus? RentalStatus { get; set; }  
+        public RentalStatus? RentalStatus { get; set; }
 
     }
 }

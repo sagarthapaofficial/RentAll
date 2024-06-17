@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace RentAll.DAL.Domain_Classes
+namespace RentAll.Model
 {
     public class Product
     {
@@ -14,11 +14,11 @@ namespace RentAll.DAL.Domain_Classes
 
         [Required]
         [ForeignKey("BrandId")]
-        public  Brand? Brand { get; set; }
+        public Brand? Brand { get; set; }
 
         [Required]
         [ForeignKey("ProductCategoryId")]
-        public  ProductCategory? ProductCategory { get; set; }
+        public ProductCategory? ProductCategory { get; set; }
 
         [Required]
         [Column(TypeName = "money")]
@@ -31,6 +31,6 @@ namespace RentAll.DAL.Domain_Classes
         [StringLength(200)]
         public string Description { get; set; } = "";
 
-   
+
     }
 }

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace RentAll.DAL.Domain_Classes
+namespace RentAll.Model
 {
     public class Address
     {

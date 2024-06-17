@@ -9,6 +9,11 @@ D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerS
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Azure.Identity.dll
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Castle.Core.dll
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Humanizer.dll
+D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -22,6 +27,9 @@ D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerS
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -137,4 +145,5 @@ D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerS
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\obj\Debug\net8.0\RentAll.pdb
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\obj\Debug\net8.0\RentAll.genruntimeconfig.cache
 D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\obj\Debug\net8.0\ref\RentAll.dll
-D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Mailjet.Client.dll
+D:\BecommingSoftwareDeveloper\Full-stack Web Application Project\RentAll\ServerSide\RentAll\bin\Debug\net8.0\Newtonsoft.Json.dll

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace RentAll.DAL.Domain_Classes
+namespace RentAll.Model
 {
     public class OrderItems
     {
@@ -14,7 +14,7 @@ namespace RentAll.DAL.Domain_Classes
         [ForeignKey("OrderId")]
         public Order? Order { get; set; }
 
-        [Required] 
+        [Required]
         [ForeignKey("ProductId")]
         public Product? Product { get; set; }
 
@@ -25,8 +25,8 @@ namespace RentAll.DAL.Domain_Classes
         public int QtySold { get; set; }
 
         [Required]
-        [Column(TypeName ="money")]
-        public decimal Amount { get; set; } 
+        [Column(TypeName = "money")]
+        public decimal Amount { get; set; }
 
     }
 }

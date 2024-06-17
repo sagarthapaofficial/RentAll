@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace RentAll.DAL.Domain_Classes
+namespace RentAll.Model
 {
     public class PaymentTransaction
     {
@@ -18,8 +18,8 @@ namespace RentAll.DAL.Domain_Classes
         public DateTime TransactionDate { get; set; }
 
         [Required]
-        [Column(TypeName ="money")]
-        public decimal Amount {  get; set; }
+        [Column(TypeName = "money")]
+        public decimal Amount { get; set; }
 
         [Required]
         [StringLength(100)]

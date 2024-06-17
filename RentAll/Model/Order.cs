@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Diagnostics.CodeAnalysis;
 
-namespace RentAll.DAL.Domain_Classes
+namespace RentAll.Model
 {
     public class Order
     {
@@ -17,7 +17,7 @@ namespace RentAll.DAL.Domain_Classes
         [Required]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-        
+
         [Required]
         public DateTime OrderDate { get; set; }
 
@@ -31,7 +31,7 @@ namespace RentAll.DAL.Domain_Classes
 
         [Required]
         [StringLength(50)]
-        public String PaymentStatus { get; set; } = "";
+        public string PaymentStatus { get; set; } = "";
 
         public virtual ICollection<OrderItems> OrderItems { get; set; }
     }

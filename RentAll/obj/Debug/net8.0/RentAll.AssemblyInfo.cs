@@ -11,10 +11,15 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("d569ce8f-305e-4449-88e9-0dcc14789a25")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RentAll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+003e39f86b5e6e3729ffdfbc72c6335b2f83613b")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87c00848746a0edceb966656bd1122c07b342d38")]
+>>>>>>> sBranch
 [assembly: System.Reflection.AssemblyProductAttribute("RentAll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RentAll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
