@@ -38,8 +38,7 @@
               "RelativeToolTip": "DAL\\DAO\\UserDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T00:24:41.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T00:24:41.304Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Controllers\\RegisterController.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAowDkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T00:20:32.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T00:20:32.202Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Helpers\\UserHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T00:20:26.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T00:20:26.527Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RentAll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c2628c773b03a1b22d7b97d9fbe16c9d1b2682d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+003e39f86b5e6e3729ffdfbc72c6335b2f83613b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RentAll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RentAll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
